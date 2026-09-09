@@ -1,0 +1,1 @@
+Completed di-demo application in [Lesson: Frameworks, Dependency Management, and Application Layering](https://github.com/su-ntu-sctp/ai-3.14-frameworks-dependency-management-application-layering/blob/main/lesson.md).
